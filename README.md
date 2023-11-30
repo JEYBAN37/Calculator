@@ -26,3 +26,6 @@ java -jar build/libs/Calculator_Calidad_Test-1.0-SNAPSHOT.jar
 ```
 ## Verificacion de funcionamiento
 
+![Nombre Alternativo](calculatorgit.gif)
+
+
