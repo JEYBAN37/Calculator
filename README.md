@@ -1,6 +1,8 @@
 # Calculator Java FX
 
-Uno de las principales y clasicos proyectos de desarrollo es asi como les traigo esta calculadora con control de errores y las operaciones principales
+Uno de las principales y clasicos proyectos de desarrollo es asi como les traigo esta calculadora con control de errores y las operaciones principales.
+
+![Logo de mi proyecto](Calculator.png)
 
 JavaFX en JavaJDK11 forma interacitva y de ejemplo para que tu la implementes y practiques
 
